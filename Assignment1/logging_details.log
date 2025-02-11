@@ -1,0 +1,56 @@
+2025-02-11 21:28:07,990 - INFO - Starting program
+2025-02-11 21:28:07,993 - INFO - Scrapping data from google search engine for tata merger search string
+2025-02-11 21:28:08,007 - INFO - Scrapping data from google search engine for tata lawsuits search string
+2025-02-11 21:28:08,007 - INFO - Scrapping data from google search engine for tata bankruptcy search string
+2025-02-11 21:28:08,008 - INFO - Scrapping data from google search engine for jio merger search string
+2025-02-11 21:28:08,008 - INFO - Scrapping data from google search engine for jio lawsuits search string
+2025-02-11 21:28:08,009 - INFO - Scrapping data from google search engine for jio bankruptcy search string
+2025-02-11 21:28:08,009 - INFO - Scrapping data from google search engine for apple merger search string
+2025-02-11 21:28:08,010 - INFO - Scrapping data from google search engine for apple lawsuits search string
+2025-02-11 21:28:08,010 - INFO - Scrapping data from google search engine for apple bankruptcy search string
+2025-02-11 21:28:08,010 - INFO - Scrapping data from yahoo search engine for tata merger search string
+2025-02-11 21:28:08,011 - INFO - Scrapping data from yahoo search engine for tata lawsuits search string
+2025-02-11 21:28:08,011 - INFO - Scrapping data from yahoo search engine for tata bankruptcy search string
+2025-02-11 21:28:08,012 - INFO - Scrapping data from yahoo search engine for jio merger search string
+2025-02-11 21:28:08,012 - INFO - Scrapping data from yahoo search engine for jio lawsuits search string
+2025-02-11 21:28:08,012 - INFO - Scrapping data from yahoo search engine for jio bankruptcy search string
+2025-02-11 21:28:08,013 - INFO - Scrapping data from yahoo search engine for apple merger search string
+2025-02-11 21:28:08,013 - INFO - Scrapping data from yahoo search engine for apple lawsuits search string
+2025-02-11 21:28:08,013 - INFO - Scrapping data from yahoo search engine for apple bankruptcy search string
+2025-02-11 21:28:08,014 - INFO - Scrapping data from bing search engine for tata merger search string
+2025-02-11 21:28:08,014 - INFO - Scrapping data from bing search engine for tata lawsuits search string
+2025-02-11 21:28:08,014 - INFO - Scrapping data from bing search engine for tata bankruptcy search string
+2025-02-11 21:28:08,015 - INFO - Scrapping data from bing search engine for jio merger search string
+2025-02-11 21:28:08,015 - INFO - Scrapping data from bing search engine for jio lawsuits search string
+2025-02-11 21:28:08,015 - INFO - Scrapping data from bing search engine for jio bankruptcy search string
+2025-02-11 21:28:08,017 - INFO - Scrapping data from bing search engine for apple merger search string
+2025-02-11 21:28:08,018 - INFO - Scrapping data from bing search engine for apple lawsuits search string
+2025-02-11 21:28:08,018 - INFO - Scrapping data from bing search engine for apple bankruptcy search string
+2025-02-11 21:28:09,196 - INFO - Completed scraping data for google search engine and tata bankruptcy search string
+2025-02-11 21:28:09,283 - INFO - Completed scraping data for google search engine and jio lawsuits search string
+2025-02-11 21:28:09,319 - INFO - Completed scraping data for bing search engine and apple bankruptcy search string
+2025-02-11 21:28:09,451 - INFO - Completed scraping data for google search engine and apple bankruptcy search string
+2025-02-11 21:28:09,574 - INFO - Completed scraping data for google search engine and tata merger search string
+2025-02-11 21:28:09,743 - INFO - Completed scraping data for google search engine and apple lawsuits search string
+2025-02-11 21:28:09,758 - INFO - Completed scraping data for bing search engine and jio lawsuits search string
+2025-02-11 21:28:09,770 - INFO - Completed scraping data for yahoo search engine and apple bankruptcy search string
+2025-02-11 21:28:09,782 - INFO - Completed scraping data for yahoo search engine and tata merger search string
+2025-02-11 21:28:09,792 - INFO - Completed scraping data for bing search engine and apple merger search string
+2025-02-11 21:28:09,800 - INFO - Completed scraping data for yahoo search engine and tata bankruptcy search string
+2025-02-11 21:28:09,807 - INFO - Completed scraping data for yahoo search engine and jio merger search string
+2025-02-11 21:28:09,819 - INFO - Completed scraping data for yahoo search engine and apple lawsuits search string
+2025-02-11 21:28:09,829 - INFO - Completed scraping data for bing search engine and tata bankruptcy search string
+2025-02-11 21:28:09,840 - INFO - Completed scraping data for yahoo search engine and jio lawsuits search string
+2025-02-11 21:28:09,848 - INFO - Completed scraping data for yahoo search engine and tata lawsuits search string
+2025-02-11 21:28:09,856 - INFO - Completed scraping data for yahoo search engine and jio bankruptcy search string
+2025-02-11 21:28:09,866 - INFO - Completed scraping data for bing search engine and tata lawsuits search string
+2025-02-11 21:28:09,988 - INFO - Completed scraping data for google search engine and apple merger search string
+2025-02-11 21:28:10,082 - INFO - Completed scraping data for google search engine and jio bankruptcy search string
+2025-02-11 21:28:10,177 - INFO - Completed scraping data for google search engine and tata lawsuits search string
+2025-02-11 21:28:10,192 - INFO - Completed scraping data for bing search engine and jio merger search string
+2025-02-11 21:28:10,205 - INFO - Completed scraping data for bing search engine and tata merger search string
+2025-02-11 21:28:10,219 - INFO - Completed scraping data for bing search engine and apple lawsuits search string
+2025-02-11 21:28:10,230 - INFO - Completed scraping data for bing search engine and jio bankruptcy search string
+2025-02-11 21:28:10,243 - INFO - Completed scraping data for yahoo search engine and apple merger search string
+2025-02-11 21:28:10,362 - INFO - Completed scraping data for google search engine and jio merger search string
+2025-02-11 21:28:10,396 - INFO - Data saved to 'output_1739289490.csv

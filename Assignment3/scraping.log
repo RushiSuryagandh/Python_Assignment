@@ -1,0 +1,16 @@
+2025-02-11 12:46:57,877-INFO-Successfully fetched article.
+2025-02-11 12:46:58,060-INFO-Successfully fetched article.
+2025-02-11 12:47:08,131-INFO-Successfully fetched article.
+2025-02-11 12:47:08,148-INFO-Successfully fetched article.
+2025-02-11 12:47:08,410-INFO-fetching data for url https://indianexpress.com/article/cities/chandigarh/colombia-el-salvador-guatemala-mexico-deportee-woman-paid-rs-1-crore-agent-dunki-route-detention-us-9821023/?ref=breaking_hp
+2025-02-11 12:47:08,428-INFO-fetching data for url https://www.thehindu.com/news/international/bangladesh-has-become-a-land-of-terrorists-and-fighters-says-sheikh-hasina-after-demolition-of-residence-of-sheikh-mujibur-rahman/article69187048.ece
+2025-02-11 12:47:08,493-ERROR-Error saving to ./md_with_async\scrape_TheHindu.md: object int can't be used in 'await' expression
+2025-02-11 12:47:08,549-ERROR-Error saving to ./md_with_async\scrape_IndianExpress.md: object int can't be used in 'await' expression
+2025-02-11 12:49:30,697-INFO-Successfully fetched article.
+2025-02-11 12:49:31,227-INFO-Successfully fetched article.
+2025-02-11 12:49:41,034-INFO-Successfully fetched article.
+2025-02-11 12:49:41,073-INFO-Successfully fetched article.
+2025-02-11 12:49:41,215-INFO-fetching data for url https://indianexpress.com/article/cities/chandigarh/colombia-el-salvador-guatemala-mexico-deportee-woman-paid-rs-1-crore-agent-dunki-route-detention-us-9821023/?ref=breaking_hp
+2025-02-11 12:49:41,227-INFO-fetching data for url https://www.thehindu.com/news/international/bangladesh-has-become-a-land-of-terrorists-and-fighters-says-sheikh-hasina-after-demolition-of-residence-of-sheikh-mujibur-rahman/article69187048.ece
+2025-02-11 12:49:41,324-INFO-File saved successfully
+2025-02-11 12:49:41,415-INFO-File saved successfully

@@ -3,3 +3,5 @@ webdriver-manager
 pandas
 fitz
 decorator
+pandas
+pymupdf

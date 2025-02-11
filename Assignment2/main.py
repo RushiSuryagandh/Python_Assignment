@@ -10,10 +10,16 @@ from decorators.execution_time import execution_time
 @execution_time
 def main():
     config =load_json()
+    # loading jason file
     urls_data = config['urls']
     download_dir=config['directory_path']
+
+    # download each file
     downlod_pdf(urls_data,download_dir)
+
+    # Adding delay to avoid download of temp files instead of complete pdf
     time.sleep(2)
+    
     directory_path = config['directory_path']
     #  Fetch the PDF file paths
     pdf_file_paths = fetch_pdf_files(directory_path)

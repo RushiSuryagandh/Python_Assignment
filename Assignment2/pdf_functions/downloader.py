@@ -23,7 +23,7 @@ def downlod_pdf(urls_data,download_dir):
         # Check if the file already exists
         print(os.listdir(download_dir))
         if not os.path.exists(file_path):
-                        # If the file doesn't exist, download it
+            # If the file doesn't exist, download it
             driver.get(url)
         else:
             # If the file exists, skip downloading

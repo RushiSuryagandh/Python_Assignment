@@ -10,10 +10,11 @@ def extract_data_from_regx(text):
     email_pattern=r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9._%+-]+\.[a-zA-Z]{2,}'
     cin_number_pattern=r'[A-Z]{1}[0-9]{5}[A-Z]{2}[0-9]{4}[A-Z]{3}[0-9]{6}'
     mobile_number_pattern=r'\b(?:\d{3,5}[\s-]?)?[\d]{7,10}\b'
-    pan_number_pattern=r'\b[A-Z]{5}[0-9]{4}[A-Z]{1}\b'
+    pan_number_pattern=r'[A-Z]{5}[0-9]{4}[A-Z]{1}'
     dates_pattern=r'\b\d{2}/\d{2}/\d{4}\b'
     website_pattern=r'\bhttps?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?:/\S*)?\b|\bwww\.[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?:/\S*)?'
     
+    # extracted data stored in file
     emails = re.findall(email_pattern, text)
     cin_numbers = re.findall(cin_number_pattern, text)
     mobile_numbers = re.findall(mobile_number_pattern, text)

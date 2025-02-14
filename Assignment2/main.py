@@ -19,16 +19,14 @@ def main():
 
     # Adding delay to avoid download of temp files instead of complete pdf
     time.sleep(2)
-    
-    directory_path = config['directory_path']
+
     #  Fetch the PDF file paths
-    pdf_file_paths = fetch_pdf_files(directory_path)
+    pdf_file_paths = fetch_pdf_files(download_dir)
 
     # Extract data from PDFs
     text = extract_data_from_pdf(pdf_file_paths)
     # Extract data using regex
     data = extract_data_from_regx(text)
-    time.sleep(1)
     # Save to CSV
     save_to_csv(data)
 

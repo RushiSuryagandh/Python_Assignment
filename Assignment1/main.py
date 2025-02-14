@@ -9,9 +9,9 @@ if __name__ == "__main__":
     # Adding logging
     logging.basicConfig(
         filename='logging_details.log',
-        level=logging.INFO,
+        level=logging.WARNING,
         format='%(asctime)s - %(levelname)s - %(message)s',
-        filemode='w'
+        filemode='a'
     )
     
     try:

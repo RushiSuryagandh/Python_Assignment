@@ -68,7 +68,7 @@ async def scrape_media_async(site_name, config):
         
         if title and body:
             filename = f"scrape_{site_name}.md"
-            await save_to_markdown_async(title, body, filename,folder_path='./md_with_async')
+            save_to_markdown_async(title, body, filename,folder_path='./md_with_async')
 
 
 def save_to_markdown_async(title, body,filename,folder_path):
